@@ -1,0 +1,15 @@
+.nav>li>a:focus, .nav>li>a:hover {
+	text-decoration: none;
+	background-color: #dff0d8 !important;
+}
+
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+	background-color: #dff0d8 !important;
+	border-color: #337ab7;
+}
+
+.cmr-button {
+	width: 100px;
+	margin-right: 20px;
+}
+
